@@ -1,5 +1,5 @@
 <div align="center">
-  
+--  
   <h1>Nikit Singh</h1>
   <sub>Built with ❤︎ by
   <a href="https://github.com/nikit-singh">Nikit Singh</a>
